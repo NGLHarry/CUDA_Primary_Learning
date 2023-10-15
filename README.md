@@ -1,0 +1,2 @@
+# CUDA_Primary_Learning
+该文件仅适用想快速了解CUDA编程的同学
